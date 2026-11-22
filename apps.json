@@ -1,0 +1,55 @@
+[
+  {
+    "id": "heic2jpg",
+    "name": "HEIC to JPG Converter",
+    "icon": "🖼️",
+    "category": "photo",
+    "version": "1.1.0",
+    "updated": "2026-11-22",
+    "platform": "Windows 10/11",
+    "size": "36 MB",
+    "price": "free",
+    "download": "downloads/HEIC2JPG.exe",
+    "zip": "downloads/HEIC2JPG-v1.1.0.zip",
+    "sha256": "AFE376ED4A9B85058E0F3E81BDBBE1852367CAE2A5D2BFE682F61A90B7F4D8E8",
+    "summary": {
+      "vi": "Chuyển hàng loạt ảnh HEIC sang JPG cho cả ổ đĩa chỉ với một cú thả thư mục.",
+      "en": "Batch-convert HEIC photos to JPG across a whole drive by dropping a folder."
+    },
+    "features": {
+      "vi": [
+        "Quét đệ quy mọi thư mục con, tìm hết file .heic và .heif",
+        "JPG lưu cạnh file gốc; file HEIC gốc được gom vào một thư mục để xóa một lần",
+        "Giữ EXIF (ngày chụp, GPS) và đúng chiều xoay",
+        "Chạy offline, mặc định không xóa, không ghi đè",
+        "Giao diện tối, tiếng Việt và English"
+      ],
+      "en": [
+        "Recursively scans every subfolder for .heic and .heif files",
+        "JPGs are saved next to the originals; the original HEIC files are gathered into one folder you can delete at once",
+        "Keeps EXIF (date taken, GPS) and correct orientation",
+        "Fully offline, and nothing is deleted or overwritten by default",
+        "Dark interface in Tiếng Việt and English"
+      ]
+    },
+    "howto": {
+      "vi": ["Mở HEIC2JPG.exe", "Thả thư mục hoặc ổ đĩa vào ô lớn (hoặc bấm “Hoặc chọn thư mục”)", "Chờ xong, kiểm tra JPG rồi xóa thư mục HEIC_da_chuyen"],
+      "en": ["Open HEIC2JPG.exe", "Drop a folder or drive onto the big box (or click “Or choose a folder”)", "Wait until it finishes, check the JPGs, then delete the HEIC_da_chuyen folder"]
+    },
+    "changelog": [
+      {
+        "version": "1.1.0",
+        "date": "2026-11-22",
+        "notes": {
+          "vi": "Giao diện tối, kéo thả thư mục, gom file HEIC gốc để xóa, thêm tiếng Anh.",
+          "en": "Dark UI, folder drag and drop, original HEIC files gathered for deletion, added English."
+        }
+      },
+      {
+        "version": "1.0.0",
+        "date": "2026-11-22",
+        "notes": { "vi": "Bản đầu tiên.", "en": "First release." }
+      }
+    ]
+  }
+]

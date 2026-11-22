@@ -1,0 +1,34 @@
+{
+  "brand": "Tên thương hiệu",
+  "tagline": {
+    "vi": "Những công cụ nhỏ, miễn phí, giải quyết việc thật.",
+    "en": "Small, free tools that solve real problems."
+  },
+  "hero_sub": {
+    "vi": "Chạy offline trên máy bạn, không đăng ký, không gửi dữ liệu đi đâu.",
+    "en": "Runs offline on your PC. No sign-up, and your data never leaves your computer."
+  },
+  "categories": {
+    "photo": { "vi": "Ảnh", "en": "Photos" },
+    "file": { "vi": "Tệp", "en": "Files" },
+    "productivity": { "vi": "Năng suất", "en": "Productivity" }
+  },
+  "donate": {
+    "qr": "donate_qr.png",
+    "note": { "vi": "Quét bằng app ngân hàng hoặc ví điện tử", "en": "Scan with your banking or e-wallet app" },
+    "intl_label": "PayPal / Ko-fi",
+    "intl_url": ""
+  },
+  "contact": {
+    "email": "",
+    "issues_url": ""
+  },
+  "about": {
+    "vi": ["Mình làm các công cụ nhỏ cho những việc lặp đi lặp lại.", "Mọi ứng dụng ở đây miễn phí. Nếu thấy hữu ích, bạn có thể ủng hộ để mình làm thêm công cụ mới."],
+    "en": ["I build small tools for repetitive jobs.", "Every app here is free. If one helps you, you can support me so I can build more."]
+  },
+  "privacy": {
+    "vi": "Các ứng dụng chạy hoàn toàn trên máy bạn và không thu thập hay gửi dữ liệu. Trang web chỉ dùng thống kê lượt xem ẩn danh, không cookie.",
+    "en": "The apps run entirely on your computer and collect or send no data. This website uses anonymous page-view statistics only, with no cookies."
+  }
+}
