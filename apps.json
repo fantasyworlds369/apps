@@ -9,8 +9,8 @@
     "platform": "Windows 10/11",
     "size": "36 MB",
     "price": "free",
-    "download": "downloads/HEIC2JPG.exe",
-    "zip": "downloads/HEIC2JPG-v1.1.0.zip",
+    "download": "https://github.com/fantasyworlds369/apps/releases/latest/download/HEIC2JPG.exe",
+    "zip": "https://github.com/fantasyworlds369/apps/releases/download/v1.1.0/HEIC2JPG-v1.1.0.zip",
     "sha256": "AFE376ED4A9B85058E0F3E81BDBBE1852367CAE2A5D2BFE682F61A90B7F4D8E8",
     "summary": {
       "vi": "Chuyển hàng loạt ảnh HEIC sang JPG cho cả ổ đĩa chỉ với một cú thả thư mục.",
