@@ -121,7 +121,7 @@
     ({ home, app: detail, about }[page] || home)();
   }
 
-  Promise.all([fetch("site.json").then((r) => r.json()), fetch("apps.json").then((r) => r.json())])
+  Promise.all([fetch("site.json", { cache: "no-cache" }).then((r) => r.json()), fetch("apps.json", { cache: "no-cache" }).then((r) => r.json())])
     .then(([s, a]) => { site = s; apps = a; render(); })
     .catch((e) => { $("#main").innerHTML = `<div class="wrap"><p class="empty">Failed to load data: ${esc(e.message)}. Open via a web server, not file://.</p></div>`; });
 })();
